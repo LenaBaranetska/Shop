@@ -1,0 +1,5 @@
+C:\Users\seletskyy\Desktop\Shop-master\domainShop\bin\Debug\domainShop.dll
+C:\Users\seletskyy\Desktop\Shop-master\domainShop\bin\Debug\domainShop.pdb
+C:\Users\seletskyy\Desktop\Shop-master\domainShop\obj\Debug\domainShop.csprojResolveAssemblyReference.cache
+C:\Users\seletskyy\Desktop\Shop-master\domainShop\obj\Debug\domainShop.dll
+C:\Users\seletskyy\Desktop\Shop-master\domainShop\obj\Debug\domainShop.pdb
